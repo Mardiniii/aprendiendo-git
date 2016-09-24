@@ -12,3 +12,5 @@ number_two = gets.chomp
 puts breakline
 
 sum = number_one.to_i + number_two.to_i
+
+puts "Sum: #{sum}"
